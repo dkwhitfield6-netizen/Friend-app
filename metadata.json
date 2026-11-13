@@ -1,0 +1,6 @@
+{
+  "name": "ReConnect",
+  "description": "Recognize social media screenshots, cite sources with precise timestamps, index metadata, and reconnect with contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
